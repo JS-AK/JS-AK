@@ -52,7 +52,7 @@ Currently interested in low-overhead observability, streaming I/O, and practical
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=js-ak&theme=github-dark&hide_border=true" alt="GitHub streak">
+  <img src="./profile/streak.svg" alt="GitHub streak">
 </p>
 
 <p align="center">
