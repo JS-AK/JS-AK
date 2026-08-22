@@ -44,13 +44,15 @@ Currently interested in low-overhead observability, streaming I/O, and practical
 
 ### GitHub stats
 
+<!-- github-readme-stats.vercel.app is paused (503); use maintained mirrors instead -->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=js-ak&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-ak&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=js-ak&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=js-ak&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=js-ak&theme=github-dark&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=js-ak&theme=github-dark&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
